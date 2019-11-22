@@ -4,5 +4,5 @@ public class SecondPerson {
 
     String DOB;
 
-
+        String studentName;
 }
