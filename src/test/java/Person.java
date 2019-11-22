@@ -6,5 +6,6 @@ public class Person {
 
     int phoneNumber;
 
+    String DOB;
 
 }
