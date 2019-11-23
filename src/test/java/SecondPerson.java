@@ -8,4 +8,7 @@ public class SecondPerson {
 
 
         String update ;
+
+        double salary;
+
 }
