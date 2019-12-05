@@ -11,3 +11,4 @@ lila
 orange
 white
 rainbow
+aqua 
