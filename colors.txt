@@ -6,4 +6,8 @@ yellow
 purple
 pink
 navy blue
+<<<<<<< HEAD
 brown
+=======
+lila
+>>>>>>> 2c09653e4f07dff733acbb2c4b9f193b86ec1b11
