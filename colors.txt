@@ -12,3 +12,4 @@ orange
 white
 rainbow
 aqua
+french rose
