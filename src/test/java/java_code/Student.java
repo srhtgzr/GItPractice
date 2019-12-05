@@ -1,4 +1,4 @@
-public class SecondPerson {
+public class Student extends  Person{
 
     String name;
 
