@@ -15,3 +15,5 @@ aqua
 french rose
 cyber yellow
 parliament blue
+french violet
+Flame
