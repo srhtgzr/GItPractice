@@ -1,4 +1,8 @@
-public class Student extends  Person{
+package java_code;
+
+import java_code.Person;
+
+public class Student extends Person {
 
     String name;
 
